@@ -1,5 +1,5 @@
 {
-    "name": "meuk/faturas-app",
+    "name": "faturas/faturas-app",
     "license": "proprietary",
     "type": "project",
     "autoload": {
@@ -28,8 +28,8 @@
         "sensio/framework-extra-bundle": "^3.0.2",
         "incenteev/composer-parameter-handler": "^2.0",
 
-        "meuk/faturas-invoice-bundle": "dev-develop",
-        "meuk/faturas-invoice-lib": "dev-develop",
+        "faturas/faturas-invoice-bundle": "dev-develop",
+        "faturas/faturas-invoice-lib": "dev-develop",
         "doctrine/doctrine-migrations-bundle": "^1.1"
     },
     "require-dev": {
