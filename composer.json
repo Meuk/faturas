@@ -30,7 +30,8 @@
 
         "faturas/faturas-invoice-bundle": "dev-develop",
         "faturas/faturas-invoice-lib": "dev-develop",
-        "doctrine/doctrine-migrations-bundle": "^1.1"
+        "doctrine/doctrine-migrations-bundle": "^1.1",
+        "doctrine/migrations": "^1.4"
     },
     "require-dev": {
         "sensio/generator-bundle": "^3.0",

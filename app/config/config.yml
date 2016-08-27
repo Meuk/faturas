@@ -58,12 +58,7 @@ doctrine:
         auto_generate_proxy_classes: "%kernel.debug%"
         naming_strategy: doctrine.orm.naming_strategy.underscore
         auto_mapping: true
-        mappings:
-            FaturasInvoiceBundle:
-                mapping:              true
-                type:                 yml
-                prefix:               Faturas\Invoice\Domain
-                is_bundle:            true
+
 
 # Swiftmailer Configuration
 swiftmailer:
